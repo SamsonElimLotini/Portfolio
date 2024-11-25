@@ -151,12 +151,12 @@ h1 {
 .other-skills{
     display: flex;
     justify-content: space-around;
-    padding: 20px;
+   
     gap: 20px;
     background-color: #0665b1;
     margin-bottom: 20px;
     border-radius:50%;
-     box-shadow: 10px 10px 15px rgba(243, 20, 20, 0.3);
+    box-shadow: 10px 10px 15px rgba(243, 20, 20, 0.3);
 }
 
 
